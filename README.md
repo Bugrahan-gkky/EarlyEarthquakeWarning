@@ -9,6 +9,5 @@ Bu proje, Türkiye için erken deprem uyarı sistemi geliştirmeyi amaçlar. Pro
 - **Bildirimler:** Firebase Cloud Messaging entegrasyonu.
 
 ## Kurulum ve Çalıştırma
-1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/YourUsername/EarlyEarthquakeWarning.git
+   git clone https://github.com/Bugrahan-gkky/EarlyEarthquakeWarning.git
